@@ -1,3 +1,9 @@
+body{
+    background-image:url('./images/Cooking-at-Home.jpeg');
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .homepage-heading,
 h1{
   
