@@ -1,0 +1,30 @@
+.homepage-heading,
+h1{
+  
+    text-align: center;
+    border: 2px;
+    background-color: blanchedalmond;
+    flex: 1;
+}
+
+.threedishes {
+    text-align: center;
+
+}
+.threedishes ul {
+    border: 2px solid red;
+    display: inline-block;
+    margin: 10px 0;
+    padding: 2px;
+}
+.threedishes li {
+    display: inline-block;
+}
+.threedishes li a{
+    display: inline-block;
+    background: #444;
+    color: #FFF;
+    padding: 5px;
+    text-decoration: none;
+    flex:1;
+}
